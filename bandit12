@@ -1,0 +1,14 @@
+mkdir /tmp/zain1
+cp /home/bandit12/data.txt /tmp/zain1/
+touch abc
+xxd -r data.txt abc
+file -s abc
+//this will give the extension of the file
+//now repeatedly decompress the file
+
+
+ssh bandit13@bandit.labs.overthewire.org -p 2220
+
+#pass
+# The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+

@@ -1,0 +1,7 @@
+sort data.txt | uniq -u --unique
+
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+
+
+#pass
+#UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR

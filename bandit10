@@ -1,0 +1,9 @@
+base64 -d data.txt
+
+
+ssh bandit11@bandit.labs.overthewire.org -p 2220
+
+
+
+#pass
+#IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR

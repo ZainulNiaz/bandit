@@ -1,0 +1,6 @@
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+#enter password -- bandit0
+cat readme
+#copy the password for level1
+#duboJ9jbbUNNfktd78OOpsqOltutMc3MY1
+

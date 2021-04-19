@@ -1,0 +1,6 @@
+nc -z -v localhost 31000-32000
+//5 ports will appear
+// check them one by one
+
+
+you will get a private key which you use to login like before

@@ -1,0 +1,9 @@
+grep -w "millionth" data.txt
+
+
+ssh bandit8@bandit.labs.overthewire.org -p 2220
+
+
+
+#pass
+#cvX2JJa4CFALtqS87jk27qwqGhBM9plV

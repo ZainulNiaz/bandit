@@ -1,0 +1,5 @@
+find . -size 1033c ! -executable
+ssh bandit6@bandit.labs.overthewire.org -p 2220
+
+#pass
+#DXjZPULLxYr17uwoI01bNLQbtFemEgo7

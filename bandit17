@@ -1,0 +1,6 @@
+diff passwords.new passwords.old
+ssh -T bandit18@localhost
+//copy the first part
+
+#pass
+#kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd

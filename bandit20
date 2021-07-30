@@ -1,0 +1,14 @@
+
+nmap localhost
+
+nc -lp (any port not listed from first command)
+
+#open another terminal
+#login to the level
+# connect to the same port by ./suconnect (port number)
+#in 1st terminal write the password of level 20
+#done
+
+
+#pass
+#gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr

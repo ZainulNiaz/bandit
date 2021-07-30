@@ -1,0 +1,14 @@
+
+ssh bandit20@bandit.labs.overthewire.org -p 2220
+
+ls
+./bandit20-do
+
+./bandit20-do id
+
+#use cat command as bandit20 user
+./bandit20-do cat /etc/bandit_pass/bandit20 
+
+
+#pass
+#GbKksEFF4yrVs6il55v6gwY5aVje5f0j

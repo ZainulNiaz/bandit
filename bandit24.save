@@ -1,0 +1,24 @@
+
+cd /tmp/
+
+touch script.sh
+nano script.sh
+
+#save this
+#!/bin/bash                                                                     
+#counter=1
+#while [ $counter -le 10000 ]
+do
+echo "UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $counter"
+((counter++))
+done
+
+
+
+
+
+
+
+
+#pass
+#uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG

